@@ -2,10 +2,13 @@
 
 A specialized healthcare and physical rehabilitation mobile application for **Draz Physical Therapy Center**, designed for booking therapy sessions, reviewing rehabilitation programs, and connecting patients directly with medical specialists.
 
+👉 **[🌐 Launch Live Web App](https://mhmdjoe.github.io/draz-center/)** (Try it live in your browser!)
+
 ---
 
 ## 🌟 Key Features
 
+- 🌐 **Live Web Demo**: Explore the center's services directly in your browser.
 - 🏥 **Physical Therapy Services**: Detailed breakdown of therapy programs (orthopedic rehab, sports injury recovery, pediatric therapy, and spine care).
 - 📅 **Session Booking & Contact**: Patient appointment requests and direct WhatsApp/Phone hotline integration via `url_launcher`.
 - 🌐 **Arabic Healthcare UI**: Built-in RTL localization with elegant Arabic typography powered by `google_fonts` (Cairo/Tajawal).
@@ -17,7 +20,7 @@ A specialized healthcare and physical rehabilitation mobile application for **Dr
 
 | Category | Technology |
 | :--- | :--- |
-| **Framework** | Flutter & Dart SDK |
+| **Framework** | Flutter (Dart SDK) & Flutter Web |
 | **Design & Icons** | Material Design 3, `font_awesome_flutter` |
 | **Typography** | `google_fonts` |
 | **Localization** | `flutter_localizations` (Arabic RTL) |
